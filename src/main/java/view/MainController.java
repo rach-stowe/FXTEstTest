@@ -66,7 +66,7 @@ public class MainController
 	@FXML
     void onDivideButton(ActionEvent event) 
 	{
-		model.multiply();
+		model.divide();
     }
 
 	
